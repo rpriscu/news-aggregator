@@ -1,5 +1,5 @@
-playwright
-beautifulsoup4
-lxml
-python-slugify
-pytest
+playwright==1.43.0
+beautifulsoup4==4.12.3
+lxml==5.2.1
+python-slugify==8.0.4
+pytest==8.2.1
